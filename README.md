@@ -61,5 +61,3 @@ if __name__ == '__main__':
 ------
 
 Credit: [prabal](https://github.com/kingpingx/)
-
-Last Edited on: 24/12/2021
