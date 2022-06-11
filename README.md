@@ -1,8 +1,8 @@
 <h1 align="center">
-  <b>Prabal Pandey</b>
+  <b>Prabal Pandey (learning everything I can)</b>
 </h1>
 
-Heya! I'm Prabal Pandey, a CS Gate 2022 Qualified Student, Currently living in Gurgaon, India. I'm pursuing my Bachelors in Computer Science and Engineering from Dronacharya College of Engineering and learning everything I can.
+Heya! I'm Prabal Pandey, a CS Gate 2022 Qualified & B.Tech - Pre Final Year Student, Currently living in Gurgaon, India. I'm pursuing my Bachelors in Computer Science and Engineering from Dronacharya College of Engineering. I love web developing and Programming.
 
 <br>
 
@@ -11,6 +11,7 @@ Heya! I'm Prabal Pandey, a CS Gate 2022 Qualified Student, Currently living in G
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Django-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
 </div>
 </p>
 
