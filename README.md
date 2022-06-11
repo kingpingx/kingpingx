@@ -1,9 +1,17 @@
 <h1 align="center">
-  <b>Prabal Pandey (learning everything I can)</b>
+  <b>Heya! I'm Prabal Pandey,</b>
 </h1>
 
-Heya! I'm Prabal Pandey, a CS Gate 2022 Qualified & B.Tech - Pre Final Year Student, Currently living in Gurgaon, India. I'm pursuing my Bachelors in Computer Science and Engineering from Dronacharya College of Engineering. I love web developing and Programming.
+A CS Gate 2022 Qualified & B.Tech - Pre Final Year Student, Currently living in Gurgaon, India. I'm pursuing my Bachelors in Computer Science and Engineering from Dronacharya College of Engineering. 
 
+- 🌱 I’m currently learning **Web Development, Data Structures and Algorithms**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Ishita03-Singh](https://github.com/ChaitanyaMunje)
+ 
+- 📫 How to reach me **ishitasingh150301@gmail.com**
+
+<div align="center">
+ <a href="https://github-profile-trophy.vercel.app/?username=kingpingx"><img src="https://github-profile-trophy.vercel.app/?username=kingpingx" alt="Prabal Pandey"/></a>&nbsp</div>
 <br>
 
 <p>
