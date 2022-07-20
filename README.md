@@ -6,9 +6,9 @@ A CS Gate 2022 Qualified & B.Tech - Pre Final Year Student, Currently living in 
 
 - 🌱 I’m currently learning **Web Development, Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ishita03-Singh](https://github.com/ChaitanyaMunje)
+- 👨‍💻 All of my projects are available at [https://github.com/kingpingx](https://github.com/kingpingx)
  
-- 📫 How to reach me **ishitasingh150301@gmail.com**
+- 📫 How to reach me **prabal.pandey.prabal@gmail.com**
 
 <div align="center">
  <a href="https://github-profile-trophy.vercel.app/?username=kingpingx"><img src="https://github-profile-trophy.vercel.app/?username=kingpingx" alt="Prabal Pandey"/></a>&nbsp</div>
