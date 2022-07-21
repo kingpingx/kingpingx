@@ -74,7 +74,7 @@ if __name__ == '__main__':
 <!-- GitHub Readme Streak Stats - https://github.com/kingpingx/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/kingpingx/github-readme-streak-stats">
-    <img alt="Kingping's streak" src="https://github-readme-streak-stats.herokuapp.com?user=kingpingx&theme=dark)](https://git.io/streak-stats"/>
+    <img alt="Kingping's streak" src="https://github-readme-streak-stats.herokuapp.com?user=kingpingx&theme=monokai-metallian(https://git.io/streak-stats)"/>
   </a>
 </p>
 
