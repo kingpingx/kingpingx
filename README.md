@@ -69,4 +69,16 @@ if __name__ == '__main__':
 
 ------
 
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/kingpingx/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/kingpingx/github-readme-streak-stats">
+    <img alt="Kingping's streak" src="https://github-readme-streak-stats.herokuapp.com?user=kingpingx&theme=dark)](https://git.io/streak-stats"/>
+  </a>
+</p>
+
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
+
 Credit: [prabal](https://github.com/kingpingx/)
