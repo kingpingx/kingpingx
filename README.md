@@ -74,11 +74,13 @@ if __name__ == '__main__':
 <!-- GitHub Readme Streak Stats - https://github.com/kingpingx/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/kingpingx/github-readme-streak-stats">
-    <img alt="Kingping's streak" src="https://github-readme-streak-stats.herokuapp.com?user=kingpingx&theme=monokai-metallian(https://git.io/streak-stats)"/>
+    <img alt="Kingping's streak" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kingpingx&theme=monokai-metallian)](https://git.io/streak-stats)"/>
   </a>
 </p>
 
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
+## 📊 Github stats
+<!-- Graph -->
+<a href="https://github.com/kingpingx/github-readme-activity-graph"><img alt="Kingping's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=kingpingx&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- Graph -->
 
 Credit: [prabal](https://github.com/kingpingx/)
