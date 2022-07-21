@@ -65,7 +65,7 @@ if __name__ == '__main__':
 </p>
 <br> -->
 
-<!-- [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev) -->
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
 ------
 
@@ -73,14 +73,14 @@ if __name__ == '__main__':
 
 <!-- GitHub Readme Streak Stats - https://github.com/kingpingx/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/kingpingx/github-readme-streak-stats">
+  <a href="#">
     <img alt="Kingping's streak" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kingpingx&theme=monokai-metallian)](https://git.io/streak-stats)"/>
   </a>
 </p>
 
 ## 📊 Github stats
 <!-- Graph -->
-<a href="https://github.com/kingpingx/github-readme-activity-graph"><img alt="Kingping's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=kingpingx&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="#"><img alt="Kingping's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=kingpingx&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <!-- Graph -->
 
 Credit: [prabal](https://github.com/kingpingx/)
