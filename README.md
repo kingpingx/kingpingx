@@ -6,7 +6,7 @@ A CS Gate 2022 Qualified & B.Tech (Computer Science) Final Year Student, Current
 
 <div align="center">
   <a href="https://github.com/kingpingx/github-readme-stats">
-    <img src="https://github-profile-trophy.vercel.app/?username=kingpingx&theme=onedark&row=1&column=4 alt="Prabal Pandey"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=kingpingx&theme=onedark&row=1&column=4" alt="Prabal Pandey"/>
 </div>
 
 - 🌱 I’m currently learning & enhancing **Web Development, Data Structures and Algorithms**
