@@ -13,7 +13,7 @@ A CS Gate 2022 Qualified & B.Tech (Computer Science) Final Year Student, Current
 
 - 👨‍💻 All of my projects are available at [https://github.com/kingpingx](https://github.com/kingpingx)
 
-- 📘 Here is my portfolio - [https://prabalpandey.herokuapp.com/](https://prabalpandey.herokuapp.com/)
+- 📘 Here is my portfolio - [https://angular-portfolio-1o32.onrender.com/](https://angular-portfolio-1o32.onrender.com/)
  
 - 📫 How to reach me **prabal.pandey.prabal@gmail.com**
 
