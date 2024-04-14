@@ -2,7 +2,7 @@
   <b>Heya! I'm Prabal Pandey,</b>
 </h1>
 
-A CS Gate 2022 Qualified & B.Tech (Computer Science) Final Year Student, Currently living in Gurgaon, India. I'm a junior software developer who has been into front end & backend development, competetive programming. I’m passionate about creating quality products that meet all of the customer’s needs, and I love learning new techniques and technologies that allow me to make that happen.  
+A CS Gate 2022 Qualified & B.Tech (Computer Science) Graduate, Currently living in Gurgaon, India. I'm a Software Engineer who has been into front end & backend development, competetive programming. I’m passionate about creating quality products that meet all of the customer’s needs, and I love learning new techniques and technologies that allow me to make that happen.  
 
 <div align="center">
   <a href="https://github.com/kingpingx/github-readme-stats">
