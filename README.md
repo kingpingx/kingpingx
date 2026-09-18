@@ -13,13 +13,21 @@
 
 ## About me
 
-I work on video surveillance and analytics platforms (VMS, ANPR, face recognition, ITMS and ICCC) running on 200+ servers. Most of the job is keeping systems fast as the data grows:
+I'm a software engineer based in Gurugram. At I2V Systems I build the backend of video surveillance and analytics platforms (VMS, ANPR, face recognition, ITMS and ICCC) running on 200+ servers. I do this work because I like problems that fight back, and finding the one change that makes a whole system fast:
 
 - ⚡ Scaled RabbitMQ event processing from 20–30 to **500+ events/sec** by splitting one mixed queue into per-event queues with dead-letter queues
 - 🔎 Rebuilt a 40–50M-event TimescaleDB store as one hypertable with JSONB and BRIN indexes, taking search from **30 s to under 3 s**
 - 📤 Made PostgreSQL report exports **12× faster** (about 12 min to under 1 min) with streaming reads and bounded parallelism
 - 🧱 Leading the Clean Architecture migration of an ASP.NET Core monolith into 7 modules, and mentoring 4 engineers
-- 🎓 B.Tech in Software Engineering (MDU, 2023) · GATE CS 2022 qualified · Top 8, Microsoft Imagine Cup India Pre-Finals
+
+🎓 I studied Software Engineering at Maharshi Dayanand University (B.Tech, 2019–2023), qualified GATE CS in 2022, made the top 8 of the Microsoft Imagine Cup India pre-finals, and joined I2V before I had even graduated.
+
+## Beyond work
+
+- 🛠️ Building side projects and solving complex problems for fun
+- ✍️ Writing on LinkedIn about what I learn
+- 🏏 Cricket and 🏓 table tennis
+- ✈️ Travel, 🎵 music and 🎮 gaming
 
 ## Projects
 
